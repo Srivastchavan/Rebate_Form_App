@@ -1,0 +1,9 @@
+C:\Users\Srivastchavan\Desktop\MS CS\Semester2\HumanComputerInteraction\Asg3\Asg3-sxr190067\Asg3-sxr190067\obj\Debug\Asg3-sxr190067.csprojAssemblyReference.cache
+C:\Users\Srivastchavan\Desktop\MS CS\Semester2\HumanComputerInteraction\Asg3\Asg3-sxr190067\Asg3-sxr190067\obj\Debug\Asg3_sxr190067.Form1.resources
+C:\Users\Srivastchavan\Desktop\MS CS\Semester2\HumanComputerInteraction\Asg3\Asg3-sxr190067\Asg3-sxr190067\obj\Debug\Asg3_sxr190067.Properties.Resources.resources
+C:\Users\Srivastchavan\Desktop\MS CS\Semester2\HumanComputerInteraction\Asg3\Asg3-sxr190067\Asg3-sxr190067\obj\Debug\Asg3-sxr190067.csproj.GenerateResource.cache
+C:\Users\Srivastchavan\Desktop\MS CS\Semester2\HumanComputerInteraction\Asg3\Asg3-sxr190067\Asg3-sxr190067\bin\Debug\Asg3-sxr190067.exe.config
+C:\Users\Srivastchavan\Desktop\MS CS\Semester2\HumanComputerInteraction\Asg3\Asg3-sxr190067\Asg3-sxr190067\bin\Debug\Asg3-sxr190067.exe
+C:\Users\Srivastchavan\Desktop\MS CS\Semester2\HumanComputerInteraction\Asg3\Asg3-sxr190067\Asg3-sxr190067\bin\Debug\Asg3-sxr190067.pdb
+C:\Users\Srivastchavan\Desktop\MS CS\Semester2\HumanComputerInteraction\Asg3\Asg3-sxr190067\Asg3-sxr190067\obj\Debug\Asg3-sxr190067.exe
+C:\Users\Srivastchavan\Desktop\MS CS\Semester2\HumanComputerInteraction\Asg3\Asg3-sxr190067\Asg3-sxr190067\obj\Debug\Asg3-sxr190067.pdb

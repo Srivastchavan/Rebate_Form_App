@@ -1,0 +1,9 @@
+Number of records : 0
+Minimum entry time : 00:00
+Maximum entry time : 00:00
+Average entry time : 00:00
+Minimum inter-record time : 00:00
+Maximum inter-record time : 00:00
+Average inter-record time : 00:00
+Total time : 00:00
+Backspace Count : 0
